@@ -5,6 +5,6 @@ Unfortunately, with it being 90%+ only node.js and express, I cannot show the si
 
 I will say this. if you download this to your computer, yuo will have to use "npm init", and then import the files needed with "npm i (the file)" to be able to use it. I left the package-json in the files so you know what exactly you sould be imoprting.  
 
-You can find the file at yor leasure by copying and pasting the following link:
+You can find the file at yor leasure by copying and pasting, or clicking on, the following link:
 
 https://github.com/OnyxWolfe/node.js-express-training.git
